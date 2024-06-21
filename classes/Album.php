@@ -2,6 +2,7 @@
 
 class Album
 {
+    //properties
     private int $ID;
     private string $NAAM;
     private string $Artiesten;
